@@ -5,7 +5,6 @@ It often affiliated with newspapers, magazines, television networks, businesses,
 ## Basic type functionality
 This website provides two basic types of news sites: 
 * general
-* * pH
 * subject-specific. 
 ```
 General news sites provide headlines and reporting about politics and government, the economy and markets, consumer technology, and weather and sports. It was designed to appeal to a wide audience, and often serve as extensions of traditional media outlets such as newspapers and magazines.
